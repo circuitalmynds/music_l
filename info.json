@@ -1,189 +1,454 @@
 {
     "available_space": true,
-    "file_sizes": {
-        "'La Venganza De Maria' Rosendo Cantu Y Los Cadetes de Linares-JuYYtSl7vHI.mp4": 15.715145111083984,
-        "(LETRA) El Refr\u00e1n - Natanael Cano Ft. Jes\u00fas Urquijo [2020]-vqycRiLhoXM.mp4": 7.453191757202148,
-        "Clemente, Clemente-AHiSPqhuuKA.mp4": 2.863239288330078,
-        "El Amigo de Todos-fDG1fPzv2II.mp4": 7.1971588134765625,
-        "El Vengador 30-06 - Los Cadetes De Linares-QC3xzH2zfug.mp4": 4.871630668640137,
-        "L'Arc~en~Ciel - Blurry Eyes (Sub Espa\u00f1ol)-2myT0HAygFc.mp4": 21.69912624359131,
-        "L'Arc\uff5een\uff5eCiel\u300cDriver's High\u300d-Music Clip- [L'Arc\uff5een\uff5eCiel Selected 10]-bzuuxp7dsxQ.mp4": 20.981779098510742,
-        "L'Imp\u00e9ratrice 'Agitations Tropicales'-er9q7YA5WyU.mp4": 26.776968002319336,
-        "L'Imp\u00e9ratrice \u2014 SONATE PACIFIQUE-jiRUH9b33dA.mp4": 15.0123872756958,
-        "L'Imp\u00e9ratrice \u2657 VOODOO (Live)-R7-v1slmarM.mp4": 24.812381744384766,
-        "L'arc en ciel - Good Luck My Way-u1fRy346838.mp4": 20.244067192077637,
-        "L'odi Social - La Fiesta Nazi-Onal-G2NX4YAr3iU.mp4": 3.477598190307617,
-        "LA LADRONA_ - DIEGO VERDAGUER - 1981 (REMASTERIZADO)-vECYiQ14RVU.mp4": 12.496054649353027,
-        "LA NAVE DEL OLVIDO - Jos\u00e9 Jos\u00e9 (LETRA)-M_Dk9demut0.mp4": 5.408753395080566,
-        "LA PILARE\u00d1A - SAN JOSE DEL BRAVO-BNk1_ok4mNo.mp4": 5.763520240783691,
-        "LITTLE RICHARD - Long Tall Sally _ Tutti Frutti (1956) HD Movie Clip-4u-ihWoRC4w.mp4": 21.853107452392578,
-        "LOS ASES DE DURANGO  CUMBIA NORTE\u00d1A-cz75hGgZgxs.mp4": 17.979106903076172,
-        "LOS CADETES DE LINARES ASI ES MI CORAZON-UkC1lX9tbtc.mp4": 14.992191314697266,
-        "LOS CADETES DE LINARES EL CARRIZO-uRZDwuwrh3I.mp4": 3.571425437927246,
-        "LOS CADETES DE LINARES EL CUERO REMENDADO-lOox_EU9rXU.mp4": 2.9954795837402344,
-        "LOS CADETES DE LINARES HOMERO DE LEON-IrlgN61-W00.mp4": 3.833685874938965,
-        "LOS CADETES DE LINARES JAMAS ME OLVIDARAS-TO2ZFkku4ao.mp4": 7.748785018920898,
-        "LOS CADETES DE LINARES LE PIDO AL CIELO-jErA78yuPss.mp4": 3.911701202392578,
-        "LOS CADETES DE LINARES LLEVALE ESTA CARTA A ESTHER-P1SpC5CRgcQ.mp4": 3.999222755432129,
-        "LOS DOS AMIGOS (EN VIVO) - LOS CADETES DE LINARES-RqhVgam0kgE.mp4": 17.065711975097656,
-        "La Arrolladora Banda El Lim\u00f3n De Ren\u00e9 Camacho - Carita De Perd\u00f3n (Lyric Video)-8hf4HdVsWk8.mp4": 4.183262825012207,
-        "La Cruz Negra-Los Cadetes De Linares-aMEu78ZVALs.mp4": 6.049798011779785,
-        "La Familia Iskariote - Hay Ma\u00f1anas Que Es Mejor No Levantarse (Videoclip Oficial)-fzepstermSQ.mp4": 28.411450386047363,
-        "La Firma - Por El Amor De Una Mujer (Feat. Ricky Mu\u00f1oz Intocable)-S96n5x1kp70.mp4": 16.226852416992188,
-        "La Perra Vida - Estoy Cansado (Sessiones en Directo)-2C4lFM9aGVI.mp4": 28.340913772583008,
-        "La Polla Records - Progreso y Ciencia-WYo71Z6TVYY.mp4": 4.707409858703613,
-        "La Polla Records - Real Como La Vida Misma-nMP_uK6FJG8.mp4": 2.9664011001586914,
-        "La Zona del Terror-9jtGPQjSsEM.mp4": 3.608661651611328,
-        "La coyota - ozomonkey-m4eclaTpPe0.mp4": 10.575750350952148,
-        "Laid Back - Highway Of Love-pQa8jASm5IA.mp4": 15.728074073791504,
-        "Lalo Guerrero - Marihuana boogie-URBKVkaOoY0.mp4": 3.144926071166992,
-        "Lehenbiziko Bala-mjJc9jP7TUs.mp4": 6.720829963684082,
-        "Life is a song - sub espa\u00f1ol Patrick Park-htkDdw3KcgQ.mp4": 7.363227844238281,
-        "Limp Bizkit - Indigo Flow (Three Dollar Bill Y'all $) [HQ]-LY8c3SlbtXI.mp4": 6.112957954406738,
-        "Limp Bizkit - Intro (Three Dollar Bill Y'all $) [HQ]-sg_1Z0V3MnU.mp4": 2.0631818771362305,
-        "Lo Peor De La Rumba - La Despedida-k7qaDQkKc-s.mp4": 21.71491241455078,
-        "Los Amigos Invisibles - Mentiras (Video Oficial)-6g-qZIktAtc.mp4": 14.53828239440918,
-        "Los Ases de Durango   ' Cumbiambera'-nKSVMptKgt8.mp4": 6.853677749633789,
-        "Los Cadetes De Linares  la mosca prieta-ItWNOw2jT0E.mp4": 5.0985307693481445,
-        "Los Cadetes De Linares - No Hay Novedad (Video Oficial)-7gI3obA9b-U.mp4": 15.418865203857422,
-        "Los Cadetes de Linares  'El Desquite'-f-E-35UZWRw.mp4": 5.788734436035156,
-        "Los Cadetes de Linares  - El Fronterizo versi\u00f3n extendida   (Huapango)-4D_cMfiJsB8.mp4": 6.053305625915527,
-        "Los Cadetes de Linares  El Media Noche.-vKfgM8JhX1A.mp4": 9.08076000213623,
-        "Los Cadetes de Linares - 'No Hay Novedad' (Letra)-Z6fq6o_z53w.mp4": 7.504302978515625,
-        "Los Cadetes de Linares - Como Le Hare-rZJbPDOB6Jk.mp4": 3.126969337463379,
-        "Los Cadetes de Linares - Cruel Incertidumbre-zzp5FjA3w7E.mp4": 10.70422649383545,
-        "Los Cadetes de Linares - Desprecio-BU-cr9518Pc.mp4": 3.460373878479004,
-        "Los Cadetes de Linares - Dos Punales-NBGLaQ81U7Y.mp4": 3.842329978942871,
-        "Los Cadetes de Linares - El Carretonero-tiz-ixpuaKo.mp4": 5.111485481262207,
-        "Los Cadetes de Linares - Estoy Pagando-eDvgUIz54iU.mp4": 2.9010515213012695,
-        "Los Cadetes de Linares - Ezequiel Rodriguez-niw1XaY72Nw.mp4": 4.868832588195801,
-        "Los Cadetes de Linares - Flor de Capomo-KqfRyf5wWso.mp4": 5.396039962768555,
-        "Los Cadetes de Linares - Jose Lopez-9wk9rGcviKg.mp4": 3.7990455627441406,
-        "Los Cadetes de Linares - La Venganza de Maria-DSHWXh9Y4qs.mp4": 4.005853652954102,
-        "Los Cadetes de Linares - Las Tacuachadas-YgPbI1j5NmE.mp4": 4.532970428466797,
-        "Los Cadetes de Linares - Las Tres Tumbas-zPTKKIADVCU.mp4": 5.339352607727051,
-        "Los Cadetes de Linares - Llevale Esta Carta a Esther (En Vivo Desde Houston, Tx)-sP5IaoZGUww.mp4": 15.019396781921387,
-        "Los Cadetes de Linares - Mandato Divino-1C7JZhupYYM.mp4": 3.573671340942383,
-        "Los Cadetes de Linares - Por Ser Tan Pobre-NzHLX-RN-Ww.mp4": 2.4475574493408203,
-        "Los Cadetes de Linares - Prenda Querida-j20hBut9lg4.mp4": 5.923482894897461,
-        "Los Cadetes de Linares - Si Quieres Tu Volver-nd7Fw0379Bc.mp4": 3.2962894439697266,
-        "Los Cadetes de Linares - Tu Nombre-MLdgCzeKWDM.mp4": 3.417421340942383,
-        "Los Cadetes de Linares - Tu Sabes Que Te Quiero-JOXat7Db4Dc.mp4": 12.69239616394043,
-        "Los Cadetes de Linares - Un Viejo Amor-SrCAIfB-0oY.mp4": 4.2182464599609375,
-        "Los Cadetes de Linares - Vivo Preso-egPxcULl7b4.mp4": 3.5110864639282227,
-        "Los Cadetes de Linares - Y Mas Te Estoy Queriendo-nKQKT3p8WKU.mp4": 4.146417617797852,
-        "Los Cadetes de Linares - Ya Pardiando-54dNR1_nN8s.mp4": 3.999391555786133,
-        "Los Dos Amantes-JzLpzjVNP78.mp4": 7.908020973205566,
-        "Los Dos Amigos - Multikaraoke \u25ba \u00c9xito De Los Cadetes De Linares-bipTzaGYfsY.mp4": 5.412075042724609,
-        "Los Huracanes Del Norte - Rio Rojo [Serenata En Vivo Pa' Las Toxicas]-ZzCcf87sPec.mp4": 15.374402046203613,
-        "Los Invasores De Nuevo Leon El Preso De Nuevo Leon-hiBrqW9wV_o.mp4": 3.790970802307129,
-        "Los Males de Micaela (Remix)-qRLJ75mrJ24.mp4": 9.715082168579102,
-        "Los Muertos de Cristo - El militar \u00bfqu\u00e9 militar-xC3rXmScUlU.mp4": 8.14050006866455,
-        "Los Panchos -  No me Quieras Tanto  -  (letra y acordes)-DLKmwp9wJ6s.mp4": 7.238740921020508,
-        "Los Suaves - No Puedo Dejar el Rock-4JQ6RiZRqOI.mp4": 7.076926231384277,
-        "Los Suaves-Nena, te voy a dejar-SOQocqYAgJg.mp4": 3.643418312072754,
-        "Los amantes de Lola - Beber de tu sangre-fPanqv9B2tc.mp4": 14.76954460144043,
-        "Los cadetes de linares  de Lupe Tijerina  Mariano eredia-N_k9KZbHsfM.mp4": 4.403847694396973,
-        "Lucha Eterna - CAYE CAYEJERA ft. BLACK MAMA ft. M. ANKAYLI ft. TAKI AMARU ft. DJMIC-Eaz_r8fDdgw.mp4": 26.47283363342285,
-        "Luis Miguel La Barca-XFdKHhGS6Jo.mp4": 4.759537696838379,
-        "L\u00edder Del Genocidio-GxImnPSUxPY.mp4": 3.1790170669555664,
-        "Slide Thing (Live at Steamboat 1874, Austin, TX - April 1980)-1032IfN5zq4.mp4": 6.846834182739258,
-        "Slip Slidin' Slim-4MT6lJGF7jA.mp4": 4.078351020812988,
-        "los nuevos cadetes luto en mi alma-uNcBw0XGBRo.mp4": 8.778285026550293
-    },
     "size_max": 28.411450386047363,
     "size_mean": 8.89776140920232,
     "size_min": 2.0631818771362305,
     "total_size": 791.9007654190063,
     "video_list": {
-        "'La Venganza De Maria' Rosendo Cantu Y Los Cadetes de Linares-JuYYtSl7vHI.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/'La%20Venganza%20De%20Maria'%20Rosendo%20Cantu%20Y%20Los%20Cadetes%20de%20Linares-JuYYtSl7vHI.mp4?raw=true",
-        "(LETRA) El Refr\u00e1n - Natanael Cano Ft. Jes\u00fas Urquijo [2020]-vqycRiLhoXM.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/(LETRA)%20El%20Refr%C3%A1n%20-%20Natanael%20Cano%20Ft.%20Jes%C3%BAs%20Urquijo%20%5B2020%5D-vqycRiLhoXM.mp4?raw=true",
-        "Clemente, Clemente-AHiSPqhuuKA.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Clemente%2C%20Clemente-AHiSPqhuuKA.mp4?raw=true",
-        "El Amigo de Todos-fDG1fPzv2II.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/El%20Amigo%20de%20Todos-fDG1fPzv2II.mp4?raw=true",
-        "El Vengador 30-06 - Los Cadetes De Linares-QC3xzH2zfug.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/El%20Vengador%2030-06%20-%20Los%20Cadetes%20De%20Linares-QC3xzH2zfug.mp4?raw=true",
-        "L'Arc~en~Ciel - Blurry Eyes (Sub Espa\u00f1ol)-2myT0HAygFc.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/L'Arc%7Een%7ECiel%20-%20Blurry%20Eyes%20(Sub%20Espa%C3%B1ol)-2myT0HAygFc.mp4?raw=true",
-        "L'Arc\uff5een\uff5eCiel\u300cDriver's High\u300d-Music Clip- [L'Arc\uff5een\uff5eCiel Selected 10]-bzuuxp7dsxQ.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/L'Arc%EF%BD%9Een%EF%BD%9ECiel%E3%80%8CDriver's%20High%E3%80%8D-Music%20Clip-%20%5BL'Arc%EF%BD%9Een%EF%BD%9ECiel%20Selected%2010%5D-bzuuxp7dsxQ.mp4?raw=true",
-        "L'Imp\u00e9ratrice 'Agitations Tropicales'-er9q7YA5WyU.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/L'Imp%C3%A9ratrice%20'Agitations%20Tropicales'-er9q7YA5WyU.mp4?raw=true",
-        "L'Imp\u00e9ratrice \u2014 SONATE PACIFIQUE-jiRUH9b33dA.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/L'Imp%C3%A9ratrice%20%E2%80%94%20SONATE%20PACIFIQUE-jiRUH9b33dA.mp4?raw=true",
-        "L'Imp\u00e9ratrice \u2657 VOODOO (Live)-R7-v1slmarM.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/L'Imp%C3%A9ratrice%20%E2%99%97%20VOODOO%20(Live)-R7-v1slmarM.mp4?raw=true",
-        "L'arc en ciel - Good Luck My Way-u1fRy346838.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/L'arc%20en%20ciel%20-%20Good%20Luck%20My%20Way-u1fRy346838.mp4?raw=true",
-        "L'odi Social - La Fiesta Nazi-Onal-G2NX4YAr3iU.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/L'odi%20Social%20-%20La%20Fiesta%20Nazi-Onal-G2NX4YAr3iU.mp4?raw=true",
-        "LA LADRONA_ - DIEGO VERDAGUER - 1981 (REMASTERIZADO)-vECYiQ14RVU.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/LA%20LADRONA_%20-%20DIEGO%20VERDAGUER%20-%201981%20(REMASTERIZADO)-vECYiQ14RVU.mp4?raw=true",
-        "LA NAVE DEL OLVIDO - Jos\u00e9 Jos\u00e9 (LETRA)-M_Dk9demut0.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/LA%20NAVE%20DEL%20OLVIDO%20-%20Jos%C3%A9%20Jos%C3%A9%20(LETRA)-M_Dk9demut0.mp4?raw=true",
-        "LA PILARE\u00d1A - SAN JOSE DEL BRAVO-BNk1_ok4mNo.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/LA%20PILARE%C3%91A%20-%20SAN%20JOSE%20DEL%20BRAVO-BNk1_ok4mNo.mp4?raw=true",
-        "LITTLE RICHARD - Long Tall Sally _ Tutti Frutti (1956) HD Movie Clip-4u-ihWoRC4w.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/LITTLE%20RICHARD%20-%20Long%20Tall%20Sally%20_%20Tutti%20Frutti%20(1956)%20HD%20Movie%20Clip-4u-ihWoRC4w.mp4?raw=true",
-        "LOS ASES DE DURANGO  CUMBIA NORTE\u00d1A-cz75hGgZgxs.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20ASES%20DE%20DURANGO%20%20CUMBIA%20NORTE%C3%91A-cz75hGgZgxs.mp4?raw=true",
-        "LOS CADETES DE LINARES ASI ES MI CORAZON-UkC1lX9tbtc.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20ASI%20ES%20MI%20CORAZON-UkC1lX9tbtc.mp4?raw=true",
-        "LOS CADETES DE LINARES EL CARRIZO-uRZDwuwrh3I.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20EL%20CARRIZO-uRZDwuwrh3I.mp4?raw=true",
-        "LOS CADETES DE LINARES EL CUERO REMENDADO-lOox_EU9rXU.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20EL%20CUERO%20REMENDADO-lOox_EU9rXU.mp4?raw=true",
-        "LOS CADETES DE LINARES HOMERO DE LEON-IrlgN61-W00.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20HOMERO%20DE%20LEON-IrlgN61-W00.mp4?raw=true",
-        "LOS CADETES DE LINARES JAMAS ME OLVIDARAS-TO2ZFkku4ao.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20JAMAS%20ME%20OLVIDARAS-TO2ZFkku4ao.mp4?raw=true",
-        "LOS CADETES DE LINARES LE PIDO AL CIELO-jErA78yuPss.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20LE%20PIDO%20AL%20CIELO-jErA78yuPss.mp4?raw=true",
-        "LOS CADETES DE LINARES LLEVALE ESTA CARTA A ESTHER-P1SpC5CRgcQ.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20LLEVALE%20ESTA%20CARTA%20A%20ESTHER-P1SpC5CRgcQ.mp4?raw=true",
-        "LOS DOS AMIGOS (EN VIVO) - LOS CADETES DE LINARES-RqhVgam0kgE.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20DOS%20AMIGOS%20(EN%20VIVO)%20-%20LOS%20CADETES%20DE%20LINARES-RqhVgam0kgE.mp4?raw=true",
-        "La Arrolladora Banda El Lim\u00f3n De Ren\u00e9 Camacho - Carita De Perd\u00f3n (Lyric Video)-8hf4HdVsWk8.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20Arrolladora%20Banda%20El%20Lim%C3%B3n%20De%20Ren%C3%A9%20Camacho%20-%20Carita%20De%20Perd%C3%B3n%20(Lyric%20Video)-8hf4HdVsWk8.mp4?raw=true",
-        "La Cruz Negra-Los Cadetes De Linares-aMEu78ZVALs.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20Cruz%20Negra-Los%20Cadetes%20De%20Linares-aMEu78ZVALs.mp4?raw=true",
-        "La Familia Iskariote - Hay Ma\u00f1anas Que Es Mejor No Levantarse (Videoclip Oficial)-fzepstermSQ.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20Familia%20Iskariote%20-%20Hay%20Ma%C3%B1anas%20Que%20Es%20Mejor%20No%20Levantarse%20(Videoclip%20Oficial)-fzepstermSQ.mp4?raw=true",
-        "La Firma - Por El Amor De Una Mujer (Feat. Ricky Mu\u00f1oz Intocable)-S96n5x1kp70.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20Firma%20-%20Por%20El%20Amor%20De%20Una%20Mujer%20(Feat.%20Ricky%20Mu%C3%B1oz%20Intocable)-S96n5x1kp70.mp4?raw=true",
-        "La Perra Vida - Estoy Cansado (Sessiones en Directo)-2C4lFM9aGVI.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20Perra%20Vida%20-%20Estoy%20Cansado%20(Sessiones%20en%20Directo)-2C4lFM9aGVI.mp4?raw=true",
-        "La Polla Records - Progreso y Ciencia-WYo71Z6TVYY.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20Polla%20Records%20-%20Progreso%20y%20Ciencia-WYo71Z6TVYY.mp4?raw=true",
-        "La Polla Records - Real Como La Vida Misma-nMP_uK6FJG8.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20Polla%20Records%20-%20Real%20Como%20La%20Vida%20Misma-nMP_uK6FJG8.mp4?raw=true",
-        "La Zona del Terror-9jtGPQjSsEM.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20Zona%20del%20Terror-9jtGPQjSsEM.mp4?raw=true",
-        "La coyota - ozomonkey-m4eclaTpPe0.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20coyota%20-%20ozomonkey-m4eclaTpPe0.mp4?raw=true",
-        "Laid Back - Highway Of Love-pQa8jASm5IA.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Laid%20Back%20-%20Highway%20Of%20Love-pQa8jASm5IA.mp4?raw=true",
-        "Lalo Guerrero - Marihuana boogie-URBKVkaOoY0.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Lalo%20Guerrero%20-%20Marihuana%20boogie-URBKVkaOoY0.mp4?raw=true",
-        "Lehenbiziko Bala-mjJc9jP7TUs.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Lehenbiziko%20Bala-mjJc9jP7TUs.mp4?raw=true",
-        "Life is a song - sub espa\u00f1ol Patrick Park-htkDdw3KcgQ.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Life%20is%20a%20song%20-%20sub%20espa%C3%B1ol%20Patrick%20Park-htkDdw3KcgQ.mp4?raw=true",
-        "Limp Bizkit - Indigo Flow (Three Dollar Bill Y'all $) [HQ]-LY8c3SlbtXI.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Limp%20Bizkit%20-%20Indigo%20Flow%20(Three%20Dollar%20Bill%20Y'all%20%24)%20%5BHQ%5D-LY8c3SlbtXI.mp4?raw=true",
-        "Limp Bizkit - Intro (Three Dollar Bill Y'all $) [HQ]-sg_1Z0V3MnU.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Limp%20Bizkit%20-%20Intro%20(Three%20Dollar%20Bill%20Y'all%20%24)%20%5BHQ%5D-sg_1Z0V3MnU.mp4?raw=true",
-        "Lo Peor De La Rumba - La Despedida-k7qaDQkKc-s.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Lo%20Peor%20De%20La%20Rumba%20-%20La%20Despedida-k7qaDQkKc-s.mp4?raw=true",
-        "Los Amigos Invisibles - Mentiras (Video Oficial)-6g-qZIktAtc.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Amigos%20Invisibles%20-%20Mentiras%20(Video%20Oficial)-6g-qZIktAtc.mp4?raw=true",
-        "Los Ases de Durango   ' Cumbiambera'-nKSVMptKgt8.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Ases%20de%20Durango%20%20%20'%20Cumbiambera'-nKSVMptKgt8.mp4?raw=true",
-        "Los Cadetes De Linares  la mosca prieta-ItWNOw2jT0E.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20De%20Linares%20%20la%20mosca%20prieta-ItWNOw2jT0E.mp4?raw=true",
-        "Los Cadetes De Linares - No Hay Novedad (Video Oficial)-7gI3obA9b-U.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20De%20Linares%20-%20No%20Hay%20Novedad%20(Video%20Oficial)-7gI3obA9b-U.mp4?raw=true",
-        "Los Cadetes de Linares  'El Desquite'-f-E-35UZWRw.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20%20'El%20Desquite'-f-E-35UZWRw.mp4?raw=true",
-        "Los Cadetes de Linares  - El Fronterizo versi\u00f3n extendida   (Huapango)-4D_cMfiJsB8.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20%20-%20El%20Fronterizo%20versi%C3%B3n%20extendida%20%20%20(Huapango)-4D_cMfiJsB8.mp4?raw=true",
-        "Los Cadetes de Linares  El Media Noche.-vKfgM8JhX1A.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20%20El%20Media%20Noche.-vKfgM8JhX1A.mp4?raw=true",
-        "Los Cadetes de Linares - 'No Hay Novedad' (Letra)-Z6fq6o_z53w.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20'No%20Hay%20Novedad'%20(Letra)-Z6fq6o_z53w.mp4?raw=true",
-        "Los Cadetes de Linares - Como Le Hare-rZJbPDOB6Jk.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Como%20Le%20Hare-rZJbPDOB6Jk.mp4?raw=true",
-        "Los Cadetes de Linares - Cruel Incertidumbre-zzp5FjA3w7E.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Cruel%20Incertidumbre-zzp5FjA3w7E.mp4?raw=true",
-        "Los Cadetes de Linares - Desprecio-BU-cr9518Pc.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Desprecio-BU-cr9518Pc.mp4?raw=true",
-        "Los Cadetes de Linares - Dos Punales-NBGLaQ81U7Y.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Dos%20Punales-NBGLaQ81U7Y.mp4?raw=true",
-        "Los Cadetes de Linares - El Carretonero-tiz-ixpuaKo.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20El%20Carretonero-tiz-ixpuaKo.mp4?raw=true",
-        "Los Cadetes de Linares - Estoy Pagando-eDvgUIz54iU.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Estoy%20Pagando-eDvgUIz54iU.mp4?raw=true",
-        "Los Cadetes de Linares - Ezequiel Rodriguez-niw1XaY72Nw.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Ezequiel%20Rodriguez-niw1XaY72Nw.mp4?raw=true",
-        "Los Cadetes de Linares - Flor de Capomo-KqfRyf5wWso.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Flor%20de%20Capomo-KqfRyf5wWso.mp4?raw=true",
-        "Los Cadetes de Linares - Jose Lopez-9wk9rGcviKg.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Jose%20Lopez-9wk9rGcviKg.mp4?raw=true",
-        "Los Cadetes de Linares - La Venganza de Maria-DSHWXh9Y4qs.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20La%20Venganza%20de%20Maria-DSHWXh9Y4qs.mp4?raw=true",
-        "Los Cadetes de Linares - Las Tacuachadas-YgPbI1j5NmE.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Las%20Tacuachadas-YgPbI1j5NmE.mp4?raw=true",
-        "Los Cadetes de Linares - Las Tres Tumbas-zPTKKIADVCU.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Las%20Tres%20Tumbas-zPTKKIADVCU.mp4?raw=true",
-        "Los Cadetes de Linares - Llevale Esta Carta a Esther (En Vivo Desde Houston, Tx)-sP5IaoZGUww.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Llevale%20Esta%20Carta%20a%20Esther%20(En%20Vivo%20Desde%20Houston%2C%20Tx)-sP5IaoZGUww.mp4?raw=true",
-        "Los Cadetes de Linares - Mandato Divino-1C7JZhupYYM.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Mandato%20Divino-1C7JZhupYYM.mp4?raw=true",
-        "Los Cadetes de Linares - Por Ser Tan Pobre-NzHLX-RN-Ww.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Por%20Ser%20Tan%20Pobre-NzHLX-RN-Ww.mp4?raw=true",
-        "Los Cadetes de Linares - Prenda Querida-j20hBut9lg4.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Prenda%20Querida-j20hBut9lg4.mp4?raw=true",
-        "Los Cadetes de Linares - Si Quieres Tu Volver-nd7Fw0379Bc.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Si%20Quieres%20Tu%20Volver-nd7Fw0379Bc.mp4?raw=true",
-        "Los Cadetes de Linares - Tu Nombre-MLdgCzeKWDM.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Tu%20Nombre-MLdgCzeKWDM.mp4?raw=true",
-        "Los Cadetes de Linares - Tu Sabes Que Te Quiero-JOXat7Db4Dc.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Tu%20Sabes%20Que%20Te%20Quiero-JOXat7Db4Dc.mp4?raw=true",
-        "Los Cadetes de Linares - Un Viejo Amor-SrCAIfB-0oY.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Un%20Viejo%20Amor-SrCAIfB-0oY.mp4?raw=true",
-        "Los Cadetes de Linares - Vivo Preso-egPxcULl7b4.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Vivo%20Preso-egPxcULl7b4.mp4?raw=true",
-        "Los Cadetes de Linares - Y Mas Te Estoy Queriendo-nKQKT3p8WKU.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Y%20Mas%20Te%20Estoy%20Queriendo-nKQKT3p8WKU.mp4?raw=true",
-        "Los Cadetes de Linares - Ya Pardiando-54dNR1_nN8s.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Ya%20Pardiando-54dNR1_nN8s.mp4?raw=true",
-        "Los Dos Amantes-JzLpzjVNP78.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Dos%20Amantes-JzLpzjVNP78.mp4?raw=true",
-        "Los Dos Amigos - Multikaraoke \u25ba \u00c9xito De Los Cadetes De Linares-bipTzaGYfsY.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Dos%20Amigos%20-%20Multikaraoke%20%E2%96%BA%20%C3%89xito%20De%20Los%20Cadetes%20De%20Linares-bipTzaGYfsY.mp4?raw=true",
-        "Los Huracanes Del Norte - Rio Rojo [Serenata En Vivo Pa' Las Toxicas]-ZzCcf87sPec.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Huracanes%20Del%20Norte%20-%20Rio%20Rojo%20%5BSerenata%20En%20Vivo%20Pa'%20Las%20Toxicas%5D-ZzCcf87sPec.mp4?raw=true",
-        "Los Invasores De Nuevo Leon El Preso De Nuevo Leon-hiBrqW9wV_o.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Invasores%20De%20Nuevo%20Leon%20El%20Preso%20De%20Nuevo%20Leon-hiBrqW9wV_o.mp4?raw=true",
-        "Los Males de Micaela (Remix)-qRLJ75mrJ24.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Males%20de%20Micaela%20(Remix)-qRLJ75mrJ24.mp4?raw=true",
-        "Los Muertos de Cristo - El militar \u00bfqu\u00e9 militar-xC3rXmScUlU.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Muertos%20de%20Cristo%20-%20El%20militar%20%C2%BFqu%C3%A9%20militar-xC3rXmScUlU.mp4?raw=true",
-        "Los Panchos -  No me Quieras Tanto  -  (letra y acordes)-DLKmwp9wJ6s.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Panchos%20-%20%20No%20me%20Quieras%20Tanto%20%20-%20%20(letra%20y%20acordes)-DLKmwp9wJ6s.mp4?raw=true",
-        "Los Suaves - No Puedo Dejar el Rock-4JQ6RiZRqOI.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Suaves%20-%20No%20Puedo%20Dejar%20el%20Rock-4JQ6RiZRqOI.mp4?raw=true",
-        "Los Suaves-Nena, te voy a dejar-SOQocqYAgJg.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Suaves-Nena%2C%20te%20voy%20a%20dejar-SOQocqYAgJg.mp4?raw=true",
-        "Los amantes de Lola - Beber de tu sangre-fPanqv9B2tc.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20amantes%20de%20Lola%20-%20Beber%20de%20tu%20sangre-fPanqv9B2tc.mp4?raw=true",
-        "Los cadetes de linares  de Lupe Tijerina  Mariano eredia-N_k9KZbHsfM.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20cadetes%20de%20linares%20%20de%20Lupe%20Tijerina%20%20Mariano%20eredia-N_k9KZbHsfM.mp4?raw=true",
-        "Lucha Eterna - CAYE CAYEJERA ft. BLACK MAMA ft. M. ANKAYLI ft. TAKI AMARU ft. DJMIC-Eaz_r8fDdgw.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Lucha%20Eterna%20-%20CAYE%20CAYEJERA%20ft.%20BLACK%20MAMA%20ft.%20M.%20ANKAYLI%20ft.%20TAKI%20AMARU%20ft.%20DJMIC-Eaz_r8fDdgw.mp4?raw=true",
-        "Luis Miguel La Barca-XFdKHhGS6Jo.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Luis%20Miguel%20La%20Barca-XFdKHhGS6Jo.mp4?raw=true",
-        "L\u00edder Del Genocidio-GxImnPSUxPY.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/L%C3%ADder%20Del%20Genocidio-GxImnPSUxPY.mp4?raw=true",
-        "Slide Thing (Live at Steamboat 1874, Austin, TX - April 1980)-1032IfN5zq4.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Slide%20Thing%20(Live%20at%20Steamboat%201874%2C%20Austin%2C%20TX%20-%20April%201980)-1032IfN5zq4.mp4?raw=true",
-        "Slip Slidin' Slim-4MT6lJGF7jA.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/Slip%20Slidin'%20Slim-4MT6lJGF7jA.mp4?raw=true",
-        "los nuevos cadetes luto en mi alma-uNcBw0XGBRo.mp4": "https://github.com/circuitalmynds/music_l/blob/main/videos/los%20nuevos%20cadetes%20luto%20en%20mi%20alma-uNcBw0XGBRo.mp4?raw=true"
+        "'La Venganza De Maria' Rosendo Cantu Y Los Cadetes de Linares-JuYYtSl7vHI.mp4": {
+            "image": "https://i.ytimg.com/vi/JuYYtSl7vHI/hqdefault.jpg",
+            "size": 15.715145111083984,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/'La%20Venganza%20De%20Maria'%20Rosendo%20Cantu%20Y%20Los%20Cadetes%20de%20Linares-JuYYtSl7vHI.mp4?raw=true"
+        },
+        "(LETRA) El Refr\u00e1n - Natanael Cano Ft. Jes\u00fas Urquijo [2020]-vqycRiLhoXM.mp4": {
+            "image": "https://i.ytimg.com/vi/vqycRiLhoXM/hqdefault.jpg",
+            "size": 7.453191757202148,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/(LETRA)%20El%20Refr%C3%A1n%20-%20Natanael%20Cano%20Ft.%20Jes%C3%BAs%20Urquijo%20%5B2020%5D-vqycRiLhoXM.mp4?raw=true"
+        },
+        "Clemente, Clemente-AHiSPqhuuKA.mp4": {
+            "image": "https://i.ytimg.com/vi/AHiSPqhuuKA/hqdefault.jpg",
+            "size": 2.863239288330078,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Clemente%2C%20Clemente-AHiSPqhuuKA.mp4?raw=true"
+        },
+        "El Amigo de Todos-fDG1fPzv2II.mp4": {
+            "image": "https://i.ytimg.com/vi/fDG1fPzv2II/hqdefault.jpg",
+            "size": 7.1971588134765625,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/El%20Amigo%20de%20Todos-fDG1fPzv2II.mp4?raw=true"
+        },
+        "El Vengador 30-06 - Los Cadetes De Linares-QC3xzH2zfug.mp4": {
+            "image": "https://i.ytimg.com/vi/QC3xzH2zfug/hqdefault.jpg",
+            "size": 4.871630668640137,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/El%20Vengador%2030-06%20-%20Los%20Cadetes%20De%20Linares-QC3xzH2zfug.mp4?raw=true"
+        },
+        "L'Arc~en~Ciel - Blurry Eyes (Sub Espa\u00f1ol)-2myT0HAygFc.mp4": {
+            "image": "https://i.ytimg.com/vi/2myT0HAygFc/hqdefault.jpg",
+            "size": 21.69912624359131,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/L'Arc%7Een%7ECiel%20-%20Blurry%20Eyes%20(Sub%20Espa%C3%B1ol)-2myT0HAygFc.mp4?raw=true"
+        },
+        "L'Arc\uff5een\uff5eCiel\u300cDriver's High\u300d-Music Clip- [L'Arc\uff5een\uff5eCiel Selected 10]-bzuuxp7dsxQ.mp4": {
+            "image": "https://i.ytimg.com/vi/bzuuxp7dsxQ/hqdefault.jpg",
+            "size": 20.981779098510742,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/L'Arc%EF%BD%9Een%EF%BD%9ECiel%E3%80%8CDriver's%20High%E3%80%8D-Music%20Clip-%20%5BL'Arc%EF%BD%9Een%EF%BD%9ECiel%20Selected%2010%5D-bzuuxp7dsxQ.mp4?raw=true"
+        },
+        "L'Imp\u00e9ratrice 'Agitations Tropicales'-er9q7YA5WyU.mp4": {
+            "image": "https://i.ytimg.com/vi/er9q7YA5WyU/hqdefault.jpg",
+            "size": 26.776968002319336,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/L'Imp%C3%A9ratrice%20'Agitations%20Tropicales'-er9q7YA5WyU.mp4?raw=true"
+        },
+        "L'Imp\u00e9ratrice \u2014 SONATE PACIFIQUE-jiRUH9b33dA.mp4": {
+            "image": "https://i.ytimg.com/vi/jiRUH9b33dA/hqdefault.jpg",
+            "size": 15.0123872756958,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/L'Imp%C3%A9ratrice%20%E2%80%94%20SONATE%20PACIFIQUE-jiRUH9b33dA.mp4?raw=true"
+        },
+        "L'Imp\u00e9ratrice \u2657 VOODOO (Live)-R7-v1slmarM.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 24.812381744384766,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/L'Imp%C3%A9ratrice%20%E2%99%97%20VOODOO%20(Live)-R7-v1slmarM.mp4?raw=true"
+        },
+        "L'arc en ciel - Good Luck My Way-u1fRy346838.mp4": {
+            "image": "https://i.ytimg.com/vi/u1fRy346838/hqdefault.jpg",
+            "size": 20.244067192077637,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/L'arc%20en%20ciel%20-%20Good%20Luck%20My%20Way-u1fRy346838.mp4?raw=true"
+        },
+        "L'odi Social - La Fiesta Nazi-Onal-G2NX4YAr3iU.mp4": {
+            "image": "https://i.ytimg.com/vi/G2NX4YAr3iU/hqdefault.jpg",
+            "size": 3.477598190307617,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/L'odi%20Social%20-%20La%20Fiesta%20Nazi-Onal-G2NX4YAr3iU.mp4?raw=true"
+        },
+        "LA LADRONA_ - DIEGO VERDAGUER - 1981 (REMASTERIZADO)-vECYiQ14RVU.mp4": {
+            "image": "https://i.ytimg.com/vi/vECYiQ14RVU/hqdefault.jpg",
+            "size": 12.496054649353027,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LA%20LADRONA_%20-%20DIEGO%20VERDAGUER%20-%201981%20(REMASTERIZADO)-vECYiQ14RVU.mp4?raw=true"
+        },
+        "LA NAVE DEL OLVIDO - Jos\u00e9 Jos\u00e9 (LETRA)-M_Dk9demut0.mp4": {
+            "image": "https://i.ytimg.com/vi/M_Dk9demut0/hqdefault.jpg",
+            "size": 5.408753395080566,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LA%20NAVE%20DEL%20OLVIDO%20-%20Jos%C3%A9%20Jos%C3%A9%20(LETRA)-M_Dk9demut0.mp4?raw=true"
+        },
+        "LA PILARE\u00d1A - SAN JOSE DEL BRAVO-BNk1_ok4mNo.mp4": {
+            "image": "https://i.ytimg.com/vi/BNk1_ok4mNo/hqdefault.jpg",
+            "size": 5.763520240783691,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LA%20PILARE%C3%91A%20-%20SAN%20JOSE%20DEL%20BRAVO-BNk1_ok4mNo.mp4?raw=true"
+        },
+        "LITTLE RICHARD - Long Tall Sally _ Tutti Frutti (1956) HD Movie Clip-4u-ihWoRC4w.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 21.853107452392578,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LITTLE%20RICHARD%20-%20Long%20Tall%20Sally%20_%20Tutti%20Frutti%20(1956)%20HD%20Movie%20Clip-4u-ihWoRC4w.mp4?raw=true"
+        },
+        "LOS ASES DE DURANGO  CUMBIA NORTE\u00d1A-cz75hGgZgxs.mp4": {
+            "image": "https://i.ytimg.com/vi/cz75hGgZgxs/hqdefault.jpg",
+            "size": 17.979106903076172,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20ASES%20DE%20DURANGO%20%20CUMBIA%20NORTE%C3%91A-cz75hGgZgxs.mp4?raw=true"
+        },
+        "LOS CADETES DE LINARES ASI ES MI CORAZON-UkC1lX9tbtc.mp4": {
+            "image": "https://i.ytimg.com/vi/UkC1lX9tbtc/hqdefault.jpg",
+            "size": 14.992191314697266,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20ASI%20ES%20MI%20CORAZON-UkC1lX9tbtc.mp4?raw=true"
+        },
+        "LOS CADETES DE LINARES EL CARRIZO-uRZDwuwrh3I.mp4": {
+            "image": "https://i.ytimg.com/vi/uRZDwuwrh3I/hqdefault.jpg",
+            "size": 3.571425437927246,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20EL%20CARRIZO-uRZDwuwrh3I.mp4?raw=true"
+        },
+        "LOS CADETES DE LINARES EL CUERO REMENDADO-lOox_EU9rXU.mp4": {
+            "image": "https://i.ytimg.com/vi/lOox_EU9rXU/hqdefault.jpg",
+            "size": 2.9954795837402344,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20EL%20CUERO%20REMENDADO-lOox_EU9rXU.mp4?raw=true"
+        },
+        "LOS CADETES DE LINARES HOMERO DE LEON-IrlgN61-W00.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 3.833685874938965,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20HOMERO%20DE%20LEON-IrlgN61-W00.mp4?raw=true"
+        },
+        "LOS CADETES DE LINARES JAMAS ME OLVIDARAS-TO2ZFkku4ao.mp4": {
+            "image": "https://i.ytimg.com/vi/TO2ZFkku4ao/hqdefault.jpg",
+            "size": 7.748785018920898,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20JAMAS%20ME%20OLVIDARAS-TO2ZFkku4ao.mp4?raw=true"
+        },
+        "LOS CADETES DE LINARES LE PIDO AL CIELO-jErA78yuPss.mp4": {
+            "image": "https://i.ytimg.com/vi/jErA78yuPss/hqdefault.jpg",
+            "size": 3.911701202392578,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20LE%20PIDO%20AL%20CIELO-jErA78yuPss.mp4?raw=true"
+        },
+        "LOS CADETES DE LINARES LLEVALE ESTA CARTA A ESTHER-P1SpC5CRgcQ.mp4": {
+            "image": "https://i.ytimg.com/vi/P1SpC5CRgcQ/hqdefault.jpg",
+            "size": 3.999222755432129,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20CADETES%20DE%20LINARES%20LLEVALE%20ESTA%20CARTA%20A%20ESTHER-P1SpC5CRgcQ.mp4?raw=true"
+        },
+        "LOS DOS AMIGOS (EN VIVO) - LOS CADETES DE LINARES-RqhVgam0kgE.mp4": {
+            "image": "https://i.ytimg.com/vi/RqhVgam0kgE/hqdefault.jpg",
+            "size": 17.065711975097656,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS%20DOS%20AMIGOS%20(EN%20VIVO)%20-%20LOS%20CADETES%20DE%20LINARES-RqhVgam0kgE.mp4?raw=true"
+        },
+        "La Arrolladora Banda El Lim\u00f3n De Ren\u00e9 Camacho - Carita De Perd\u00f3n (Lyric Video)-8hf4HdVsWk8.mp4": {
+            "image": "https://i.ytimg.com/vi/8hf4HdVsWk8/hqdefault.jpg",
+            "size": 4.183262825012207,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20Arrolladora%20Banda%20El%20Lim%C3%B3n%20De%20Ren%C3%A9%20Camacho%20-%20Carita%20De%20Perd%C3%B3n%20(Lyric%20Video)-8hf4HdVsWk8.mp4?raw=true"
+        },
+        "La Cruz Negra-Los Cadetes De Linares-aMEu78ZVALs.mp4": {
+            "image": "https://i.ytimg.com/vi/aMEu78ZVALs/hqdefault.jpg",
+            "size": 6.049798011779785,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20Cruz%20Negra-Los%20Cadetes%20De%20Linares-aMEu78ZVALs.mp4?raw=true"
+        },
+        "La Familia Iskariote - Hay Ma\u00f1anas Que Es Mejor No Levantarse (Videoclip Oficial)-fzepstermSQ.mp4": {
+            "image": "https://i.ytimg.com/vi/fzepstermSQ/hqdefault.jpg",
+            "size": 28.411450386047363,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20Familia%20Iskariote%20-%20Hay%20Ma%C3%B1anas%20Que%20Es%20Mejor%20No%20Levantarse%20(Videoclip%20Oficial)-fzepstermSQ.mp4?raw=true"
+        },
+        "La Firma - Por El Amor De Una Mujer (Feat. Ricky Mu\u00f1oz Intocable)-S96n5x1kp70.mp4": {
+            "image": "https://i.ytimg.com/vi/S96n5x1kp70/hqdefault.jpg",
+            "size": 16.226852416992188,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20Firma%20-%20Por%20El%20Amor%20De%20Una%20Mujer%20(Feat.%20Ricky%20Mu%C3%B1oz%20Intocable)-S96n5x1kp70.mp4?raw=true"
+        },
+        "La Perra Vida - Estoy Cansado (Sessiones en Directo)-2C4lFM9aGVI.mp4": {
+            "image": "https://i.ytimg.com/vi/2C4lFM9aGVI/hqdefault.jpg",
+            "size": 28.340913772583008,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20Perra%20Vida%20-%20Estoy%20Cansado%20(Sessiones%20en%20Directo)-2C4lFM9aGVI.mp4?raw=true"
+        },
+        "La Polla Records - Progreso y Ciencia-WYo71Z6TVYY.mp4": {
+            "image": "https://i.ytimg.com/vi/WYo71Z6TVYY/hqdefault.jpg",
+            "size": 4.707409858703613,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20Polla%20Records%20-%20Progreso%20y%20Ciencia-WYo71Z6TVYY.mp4?raw=true"
+        },
+        "La Polla Records - Real Como La Vida Misma-nMP_uK6FJG8.mp4": {
+            "image": "https://i.ytimg.com/vi/nMP_uK6FJG8/hqdefault.jpg",
+            "size": 2.9664011001586914,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20Polla%20Records%20-%20Real%20Como%20La%20Vida%20Misma-nMP_uK6FJG8.mp4?raw=true"
+        },
+        "La Zona del Terror-9jtGPQjSsEM.mp4": {
+            "image": "https://i.ytimg.com/vi/9jtGPQjSsEM/hqdefault.jpg",
+            "size": 3.608661651611328,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20Zona%20del%20Terror-9jtGPQjSsEM.mp4?raw=true"
+        },
+        "La coyota - ozomonkey-m4eclaTpPe0.mp4": {
+            "image": "https://i.ytimg.com/vi/m4eclaTpPe0/hqdefault.jpg",
+            "size": 10.575750350952148,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/La%20coyota%20-%20ozomonkey-m4eclaTpPe0.mp4?raw=true"
+        },
+        "Laid Back - Highway Of Love-pQa8jASm5IA.mp4": {
+            "image": "https://i.ytimg.com/vi/pQa8jASm5IA/hqdefault.jpg",
+            "size": 15.728074073791504,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Laid%20Back%20-%20Highway%20Of%20Love-pQa8jASm5IA.mp4?raw=true"
+        },
+        "Lalo Guerrero - Marihuana boogie-URBKVkaOoY0.mp4": {
+            "image": "https://i.ytimg.com/vi/URBKVkaOoY0/hqdefault.jpg",
+            "size": 3.144926071166992,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Lalo%20Guerrero%20-%20Marihuana%20boogie-URBKVkaOoY0.mp4?raw=true"
+        },
+        "Lehenbiziko Bala-mjJc9jP7TUs.mp4": {
+            "image": "https://i.ytimg.com/vi/mjJc9jP7TUs/hqdefault.jpg",
+            "size": 6.720829963684082,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Lehenbiziko%20Bala-mjJc9jP7TUs.mp4?raw=true"
+        },
+        "Life is a song - sub espa\u00f1ol Patrick Park-htkDdw3KcgQ.mp4": {
+            "image": "https://i.ytimg.com/vi/htkDdw3KcgQ/hqdefault.jpg",
+            "size": 7.363227844238281,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Life%20is%20a%20song%20-%20sub%20espa%C3%B1ol%20Patrick%20Park-htkDdw3KcgQ.mp4?raw=true"
+        },
+        "Limp Bizkit - Indigo Flow (Three Dollar Bill Y'all $) [HQ]-LY8c3SlbtXI.mp4": {
+            "image": "https://i.ytimg.com/vi/LY8c3SlbtXI/hqdefault.jpg",
+            "size": 6.112957954406738,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Limp%20Bizkit%20-%20Indigo%20Flow%20(Three%20Dollar%20Bill%20Y'all%20%24)%20%5BHQ%5D-LY8c3SlbtXI.mp4?raw=true"
+        },
+        "Limp Bizkit - Intro (Three Dollar Bill Y'all $) [HQ]-sg_1Z0V3MnU.mp4": {
+            "image": "https://i.ytimg.com/vi/sg_1Z0V3MnU/hqdefault.jpg",
+            "size": 2.0631818771362305,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Limp%20Bizkit%20-%20Intro%20(Three%20Dollar%20Bill%20Y'all%20%24)%20%5BHQ%5D-sg_1Z0V3MnU.mp4?raw=true"
+        },
+        "Lo Peor De La Rumba - La Despedida-k7qaDQkKc-s.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 21.71491241455078,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Lo%20Peor%20De%20La%20Rumba%20-%20La%20Despedida-k7qaDQkKc-s.mp4?raw=true"
+        },
+        "Los Amigos Invisibles - Mentiras (Video Oficial)-6g-qZIktAtc.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 14.53828239440918,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Amigos%20Invisibles%20-%20Mentiras%20(Video%20Oficial)-6g-qZIktAtc.mp4?raw=true"
+        },
+        "Los Ases de Durango   ' Cumbiambera'-nKSVMptKgt8.mp4": {
+            "image": "https://i.ytimg.com/vi/nKSVMptKgt8/hqdefault.jpg",
+            "size": 6.853677749633789,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Ases%20de%20Durango%20%20%20'%20Cumbiambera'-nKSVMptKgt8.mp4?raw=true"
+        },
+        "Los Cadetes De Linares  la mosca prieta-ItWNOw2jT0E.mp4": {
+            "image": "https://i.ytimg.com/vi/ItWNOw2jT0E/hqdefault.jpg",
+            "size": 5.0985307693481445,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20De%20Linares%20%20la%20mosca%20prieta-ItWNOw2jT0E.mp4?raw=true"
+        },
+        "Los Cadetes De Linares - No Hay Novedad (Video Oficial)-7gI3obA9b-U.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 15.418865203857422,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20De%20Linares%20-%20No%20Hay%20Novedad%20(Video%20Oficial)-7gI3obA9b-U.mp4?raw=true"
+        },
+        "Los Cadetes de Linares  'El Desquite'-f-E-35UZWRw.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 5.788734436035156,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20%20'El%20Desquite'-f-E-35UZWRw.mp4?raw=true"
+        },
+        "Los Cadetes de Linares  - El Fronterizo versi\u00f3n extendida   (Huapango)-4D_cMfiJsB8.mp4": {
+            "image": "https://i.ytimg.com/vi/4D_cMfiJsB8/hqdefault.jpg",
+            "size": 6.053305625915527,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20%20-%20El%20Fronterizo%20versi%C3%B3n%20extendida%20%20%20(Huapango)-4D_cMfiJsB8.mp4?raw=true"
+        },
+        "Los Cadetes de Linares  El Media Noche.-vKfgM8JhX1A.mp4": {
+            "image": "https://i.ytimg.com/vi/vKfgM8JhX1A/hqdefault.jpg",
+            "size": 9.08076000213623,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20%20El%20Media%20Noche.-vKfgM8JhX1A.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - 'No Hay Novedad' (Letra)-Z6fq6o_z53w.mp4": {
+            "image": "https://i.ytimg.com/vi/Z6fq6o_z53w/hqdefault.jpg",
+            "size": 7.504302978515625,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20'No%20Hay%20Novedad'%20(Letra)-Z6fq6o_z53w.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Como Le Hare-rZJbPDOB6Jk.mp4": {
+            "image": "https://i.ytimg.com/vi/rZJbPDOB6Jk/hqdefault.jpg",
+            "size": 3.126969337463379,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Como%20Le%20Hare-rZJbPDOB6Jk.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Cruel Incertidumbre-zzp5FjA3w7E.mp4": {
+            "image": "https://i.ytimg.com/vi/zzp5FjA3w7E/hqdefault.jpg",
+            "size": 10.70422649383545,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Cruel%20Incertidumbre-zzp5FjA3w7E.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Desprecio-BU-cr9518Pc.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 3.460373878479004,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Desprecio-BU-cr9518Pc.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Dos Punales-NBGLaQ81U7Y.mp4": {
+            "image": "https://i.ytimg.com/vi/NBGLaQ81U7Y/hqdefault.jpg",
+            "size": 3.842329978942871,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Dos%20Punales-NBGLaQ81U7Y.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - El Carretonero-tiz-ixpuaKo.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 5.111485481262207,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20El%20Carretonero-tiz-ixpuaKo.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Estoy Pagando-eDvgUIz54iU.mp4": {
+            "image": "https://i.ytimg.com/vi/eDvgUIz54iU/hqdefault.jpg",
+            "size": 2.9010515213012695,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Estoy%20Pagando-eDvgUIz54iU.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Ezequiel Rodriguez-niw1XaY72Nw.mp4": {
+            "image": "https://i.ytimg.com/vi/niw1XaY72Nw/hqdefault.jpg",
+            "size": 4.868832588195801,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Ezequiel%20Rodriguez-niw1XaY72Nw.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Flor de Capomo-KqfRyf5wWso.mp4": {
+            "image": "https://i.ytimg.com/vi/KqfRyf5wWso/hqdefault.jpg",
+            "size": 5.396039962768555,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Flor%20de%20Capomo-KqfRyf5wWso.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Jose Lopez-9wk9rGcviKg.mp4": {
+            "image": "https://i.ytimg.com/vi/9wk9rGcviKg/hqdefault.jpg",
+            "size": 3.7990455627441406,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Jose%20Lopez-9wk9rGcviKg.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - La Venganza de Maria-DSHWXh9Y4qs.mp4": {
+            "image": "https://i.ytimg.com/vi/DSHWXh9Y4qs/hqdefault.jpg",
+            "size": 4.005853652954102,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20La%20Venganza%20de%20Maria-DSHWXh9Y4qs.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Las Tacuachadas-YgPbI1j5NmE.mp4": {
+            "image": "https://i.ytimg.com/vi/YgPbI1j5NmE/hqdefault.jpg",
+            "size": 4.532970428466797,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Las%20Tacuachadas-YgPbI1j5NmE.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Las Tres Tumbas-zPTKKIADVCU.mp4": {
+            "image": "https://i.ytimg.com/vi/zPTKKIADVCU/hqdefault.jpg",
+            "size": 5.339352607727051,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Las%20Tres%20Tumbas-zPTKKIADVCU.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Llevale Esta Carta a Esther (En Vivo Desde Houston, Tx)-sP5IaoZGUww.mp4": {
+            "image": "https://i.ytimg.com/vi/sP5IaoZGUww/hqdefault.jpg",
+            "size": 15.019396781921387,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Llevale%20Esta%20Carta%20a%20Esther%20(En%20Vivo%20Desde%20Houston%2C%20Tx)-sP5IaoZGUww.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Mandato Divino-1C7JZhupYYM.mp4": {
+            "image": "https://i.ytimg.com/vi/1C7JZhupYYM/hqdefault.jpg",
+            "size": 3.573671340942383,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Mandato%20Divino-1C7JZhupYYM.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Por Ser Tan Pobre-NzHLX-RN-Ww.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 2.4475574493408203,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Por%20Ser%20Tan%20Pobre-NzHLX-RN-Ww.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Prenda Querida-j20hBut9lg4.mp4": {
+            "image": "https://i.ytimg.com/vi/j20hBut9lg4/hqdefault.jpg",
+            "size": 5.923482894897461,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Prenda%20Querida-j20hBut9lg4.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Si Quieres Tu Volver-nd7Fw0379Bc.mp4": {
+            "image": "https://i.ytimg.com/vi/nd7Fw0379Bc/hqdefault.jpg",
+            "size": 3.2962894439697266,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Si%20Quieres%20Tu%20Volver-nd7Fw0379Bc.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Tu Nombre-MLdgCzeKWDM.mp4": {
+            "image": "https://i.ytimg.com/vi/MLdgCzeKWDM/hqdefault.jpg",
+            "size": 3.417421340942383,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Tu%20Nombre-MLdgCzeKWDM.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Tu Sabes Que Te Quiero-JOXat7Db4Dc.mp4": {
+            "image": "https://i.ytimg.com/vi/JOXat7Db4Dc/hqdefault.jpg",
+            "size": 12.69239616394043,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Tu%20Sabes%20Que%20Te%20Quiero-JOXat7Db4Dc.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Un Viejo Amor-SrCAIfB-0oY.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 4.2182464599609375,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Un%20Viejo%20Amor-SrCAIfB-0oY.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Vivo Preso-egPxcULl7b4.mp4": {
+            "image": "https://i.ytimg.com/vi/egPxcULl7b4/hqdefault.jpg",
+            "size": 3.5110864639282227,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Vivo%20Preso-egPxcULl7b4.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Y Mas Te Estoy Queriendo-nKQKT3p8WKU.mp4": {
+            "image": "https://i.ytimg.com/vi/nKQKT3p8WKU/hqdefault.jpg",
+            "size": 4.146417617797852,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Y%20Mas%20Te%20Estoy%20Queriendo-nKQKT3p8WKU.mp4?raw=true"
+        },
+        "Los Cadetes de Linares - Ya Pardiando-54dNR1_nN8s.mp4": {
+            "image": "https://i.ytimg.com/vi/54dNR1_nN8s/hqdefault.jpg",
+            "size": 3.999391555786133,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Cadetes%20de%20Linares%20-%20Ya%20Pardiando-54dNR1_nN8s.mp4?raw=true"
+        },
+        "Los Dos Amantes-JzLpzjVNP78.mp4": {
+            "image": "https://i.ytimg.com/vi/JzLpzjVNP78/hqdefault.jpg",
+            "size": 7.908020973205566,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Dos%20Amantes-JzLpzjVNP78.mp4?raw=true"
+        },
+        "Los Dos Amigos - Multikaraoke \u25ba \u00c9xito De Los Cadetes De Linares-bipTzaGYfsY.mp4": {
+            "image": "https://i.ytimg.com/vi/bipTzaGYfsY/hqdefault.jpg",
+            "size": 5.412075042724609,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Dos%20Amigos%20-%20Multikaraoke%20%E2%96%BA%20%C3%89xito%20De%20Los%20Cadetes%20De%20Linares-bipTzaGYfsY.mp4?raw=true"
+        },
+        "Los Huracanes Del Norte - Rio Rojo [Serenata En Vivo Pa' Las Toxicas]-ZzCcf87sPec.mp4": {
+            "image": "https://i.ytimg.com/vi/ZzCcf87sPec/hqdefault.jpg",
+            "size": 15.374402046203613,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Huracanes%20Del%20Norte%20-%20Rio%20Rojo%20%5BSerenata%20En%20Vivo%20Pa'%20Las%20Toxicas%5D-ZzCcf87sPec.mp4?raw=true"
+        },
+        "Los Invasores De Nuevo Leon El Preso De Nuevo Leon-hiBrqW9wV_o.mp4": {
+            "image": "https://i.ytimg.com/vi/hiBrqW9wV_o/hqdefault.jpg",
+            "size": 3.790970802307129,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Invasores%20De%20Nuevo%20Leon%20El%20Preso%20De%20Nuevo%20Leon-hiBrqW9wV_o.mp4?raw=true"
+        },
+        "Los Males de Micaela (Remix)-qRLJ75mrJ24.mp4": {
+            "image": "https://i.ytimg.com/vi/qRLJ75mrJ24/hqdefault.jpg",
+            "size": 9.715082168579102,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Males%20de%20Micaela%20(Remix)-qRLJ75mrJ24.mp4?raw=true"
+        },
+        "Los Muertos de Cristo - El militar \u00bfqu\u00e9 militar-xC3rXmScUlU.mp4": {
+            "image": "https://i.ytimg.com/vi/xC3rXmScUlU/hqdefault.jpg",
+            "size": 8.14050006866455,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Muertos%20de%20Cristo%20-%20El%20militar%20%C2%BFqu%C3%A9%20militar-xC3rXmScUlU.mp4?raw=true"
+        },
+        "Los Panchos -  No me Quieras Tanto  -  (letra y acordes)-DLKmwp9wJ6s.mp4": {
+            "image": "https://i.ytimg.com/vi/DLKmwp9wJ6s/hqdefault.jpg",
+            "size": 7.238740921020508,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Panchos%20-%20%20No%20me%20Quieras%20Tanto%20%20-%20%20(letra%20y%20acordes)-DLKmwp9wJ6s.mp4?raw=true"
+        },
+        "Los Suaves - No Puedo Dejar el Rock-4JQ6RiZRqOI.mp4": {
+            "image": "https://i.ytimg.com/vi/4JQ6RiZRqOI/hqdefault.jpg",
+            "size": 7.076926231384277,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Suaves%20-%20No%20Puedo%20Dejar%20el%20Rock-4JQ6RiZRqOI.mp4?raw=true"
+        },
+        "Los Suaves-Nena, te voy a dejar-SOQocqYAgJg.mp4": {
+            "image": "https://i.ytimg.com/vi/SOQocqYAgJg/hqdefault.jpg",
+            "size": 3.643418312072754,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20Suaves-Nena%2C%20te%20voy%20a%20dejar-SOQocqYAgJg.mp4?raw=true"
+        },
+        "Los amantes de Lola - Beber de tu sangre-fPanqv9B2tc.mp4": {
+            "image": "https://i.ytimg.com/vi/fPanqv9B2tc/hqdefault.jpg",
+            "size": 14.76954460144043,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20amantes%20de%20Lola%20-%20Beber%20de%20tu%20sangre-fPanqv9B2tc.mp4?raw=true"
+        },
+        "Los cadetes de linares  de Lupe Tijerina  Mariano eredia-N_k9KZbHsfM.mp4": {
+            "image": "https://i.ytimg.com/vi/N_k9KZbHsfM/hqdefault.jpg",
+            "size": 4.403847694396973,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los%20cadetes%20de%20linares%20%20de%20Lupe%20Tijerina%20%20Mariano%20eredia-N_k9KZbHsfM.mp4?raw=true"
+        },
+        "Lucha Eterna - CAYE CAYEJERA ft. BLACK MAMA ft. M. ANKAYLI ft. TAKI AMARU ft. DJMIC-Eaz_r8fDdgw.mp4": {
+            "image": "https://i.ytimg.com/vi/Eaz_r8fDdgw/hqdefault.jpg",
+            "size": 26.47283363342285,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Lucha%20Eterna%20-%20CAYE%20CAYEJERA%20ft.%20BLACK%20MAMA%20ft.%20M.%20ANKAYLI%20ft.%20TAKI%20AMARU%20ft.%20DJMIC-Eaz_r8fDdgw.mp4?raw=true"
+        },
+        "Luis Miguel La Barca-XFdKHhGS6Jo.mp4": {
+            "image": "https://i.ytimg.com/vi/XFdKHhGS6Jo/hqdefault.jpg",
+            "size": 4.759537696838379,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Luis%20Miguel%20La%20Barca-XFdKHhGS6Jo.mp4?raw=true"
+        },
+        "L\u00edder Del Genocidio-GxImnPSUxPY.mp4": {
+            "image": "https://i.ytimg.com/vi/GxImnPSUxPY/hqdefault.jpg",
+            "size": 3.1790170669555664,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/L%C3%ADder%20Del%20Genocidio-GxImnPSUxPY.mp4?raw=true"
+        },
+        "Slide Thing (Live at Steamboat 1874, Austin, TX - April 1980)-1032IfN5zq4.mp4": {
+            "image": "https://i.ytimg.com/vi/1032IfN5zq4/hqdefault.jpg",
+            "size": 6.846834182739258,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Slide%20Thing%20(Live%20at%20Steamboat%201874%2C%20Austin%2C%20TX%20-%20April%201980)-1032IfN5zq4.mp4?raw=true"
+        },
+        "Slip Slidin' Slim-4MT6lJGF7jA.mp4": {
+            "image": "https://i.ytimg.com/vi/4MT6lJGF7jA/hqdefault.jpg",
+            "size": 4.078351020812988,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Slip%20Slidin'%20Slim-4MT6lJGF7jA.mp4?raw=true"
+        },
+        "los nuevos cadetes luto en mi alma-uNcBw0XGBRo.mp4": {
+            "image": "https://i.ytimg.com/vi/uNcBw0XGBRo/hqdefault.jpg",
+            "size": 8.778285026550293,
+            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/los%20nuevos%20cadetes%20luto%20en%20mi%20alma-uNcBw0XGBRo.mp4?raw=true"
+        }
     }
 }
