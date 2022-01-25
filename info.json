@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 952.8639000000004,
+    "videos": [
         "Los Muertos de Cristo - El militar ¿qué militar-xC3rXmScUlU.mp4",
         "LOS CADETES DE LINARES EL CUERO REMENDADO-lOox_EU9rXU.mp4",
         "L'Impératrice — SONATE PACIFIQUE-jiRUH9b33dA.mp4",
@@ -114,7 +115,5 @@
         "LOS CADETES DE LINARES - PESCADORES DE ENSENADA-nh9OBULqkeo.mp4",
         "Los Cadetes De Linares - No Hay Novedad (Video Oficial)-7gI3obA9b-U.mp4",
         "Los Ases de Durango   ' Cumbiambera'-nKSVMptKgt8.mp4"
-    ],
-    "id": "l",
-    "total_size": 908.7217236328119
+    ]
 }
