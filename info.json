@@ -1,5 +1,5 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
         {
             "id": "2C4lFM9aGVI",
@@ -107,34 +107,6 @@
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Lila Downs - El Feo (En Vivo)-8UC25h70Lkc.mp4?raw=true"
         },
         {
-            "id": "N1U4gPZ71E4",
-            "name": "Los Cadetes de Linares - Muchachita-N1U4gPZ71E4.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - Muchachita-N1U4gPZ71E4.mp4",
-            "size": 3.2635579999999997,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - Muchachita-N1U4gPZ71E4.mp4?raw=true"
-        },
-        {
-            "id": "woVwJBRFr9A",
-            "name": "El Hijo De Palenque (En Vivo) - Los Cadetes de Linares-woVwJBRFr9A.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/El Hijo De Palenque (En Vivo) - Los Cadetes de Linares-woVwJBRFr9A.mp4",
-            "size": 6.074428,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/El Hijo De Palenque (En Vivo) - Los Cadetes de Linares-woVwJBRFr9A.mp4?raw=true"
-        },
-        {
-            "id": "tpKw1KGlI2k",
-            "name": "Los Cadetes de Linares - Vivo Preso-tpKw1KGlI2k.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - Vivo Preso-tpKw1KGlI2k.mp4",
-            "size": 3.681641,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - Vivo Preso-tpKw1KGlI2k.mp4?raw=true"
-        },
-        {
-            "id": "7f_5lMPT274",
-            "name": "Cadetes de Linares- y mas te estoy queriendo-7f_5lMPT274.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Cadetes de Linares- y mas te estoy queriendo-7f_5lMPT274.mp4",
-            "size": 6.096304,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Cadetes de Linares- y mas te estoy queriendo-7f_5lMPT274.mp4?raw=true"
-        },
-        {
             "id": "SOQocqYAgJg",
             "name": "Los Suaves-Nena, te voy a dejar-SOQocqYAgJg.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Suaves-Nena, te voy a dejar-SOQocqYAgJg.mp4",
@@ -149,32 +121,11 @@
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS CADETES DE LINARES POLONCHA POLKA-s9ClJLE16Rk.mp4?raw=true"
         },
         {
-            "id": "-8Rp8J8v9_4",
-            "name": "Los Cadetes de Linares - Jose Lopez--8Rp8J8v9_4.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - Jose Lopez--8Rp8J8v9_4.mp4",
-            "size": 3.9835879999999997,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - Jose Lopez--8Rp8J8v9_4.mp4?raw=true"
-        },
-        {
             "id": "woVwJBRFr9A",
             "name": "Los Cadetes de Linares - El Hijo De Palenque (En Vivo)-woVwJBRFr9A.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - El Hijo De Palenque (En Vivo)-woVwJBRFr9A.mp4",
             "size": 4.627603,
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - El Hijo De Palenque (En Vivo)-woVwJBRFr9A.mp4?raw=true"
-        },
-        {
-            "id": "6exsEihFXk8",
-            "name": "CADETES DE LINARES (EL CRIMINAL)EL PATA DE PALO-6exsEihFXk8.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/CADETES DE LINARES (EL CRIMINAL)EL PATA DE PALO-6exsEihFXk8.mp4",
-            "size": 11.511346,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/CADETES DE LINARES (EL CRIMINAL)EL PATA DE PALO-6exsEihFXk8.mp4?raw=true"
-        },
-        {
-            "id": "y_ry3v2rHLs",
-            "name": "Los Cadetes De Linares Tu Nombre-y_ry3v2rHLs.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes De Linares Tu Nombre-y_ry3v2rHLs.mp4",
-            "size": 5.444508,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes De Linares Tu Nombre-y_ry3v2rHLs.mp4?raw=true"
         },
         {
             "id": "C3Ib4lDFO3I",
@@ -184,32 +135,11 @@
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - El Rogon-C3Ib4lDFO3I.mp4?raw=true"
         },
         {
-            "id": "Haq3tFi5zRA",
-            "name": "Los Cadetes de Linares - Tu Sabes Que Te Quiero-Haq3tFi5zRA.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - Tu Sabes Que Te Quiero-Haq3tFi5zRA.mp4",
-            "size": 13.308942,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - Tu Sabes Que Te Quiero-Haq3tFi5zRA.mp4?raw=true"
-        },
-        {
             "id": "RqhVgam0kgE",
             "name": "LOS DOS AMIGOS (EN VIVO) - LOS CADETES DE LINARES-RqhVgam0kgE.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l/videos/LOS DOS AMIGOS (EN VIVO) - LOS CADETES DE LINARES-RqhVgam0kgE.mp4",
             "size": 17.894696,
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS DOS AMIGOS (EN VIVO) - LOS CADETES DE LINARES-RqhVgam0kgE.mp4?raw=true"
-        },
-        {
-            "id": "kUwzFuvXDmY",
-            "name": "Los Cadetes de Linares - Llevale Esta Carta a Esther (En Vivo Desde Houston, Tx)-kUwzFuvXDmY.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - Llevale Esta Carta a Esther (En Vivo Desde Houston, Tx)-kUwzFuvXDmY.mp4",
-            "size": 15.748978999999999,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - Llevale Esta Carta a Esther (En Vivo Desde Houston, Tx)-kUwzFuvXDmY.mp4?raw=true"
-        },
-        {
-            "id": "oL77DLwheQk",
-            "name": "LOS CADETES DE LINARES GENEROSO Y CARMELITA-oL77DLwheQk.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/LOS CADETES DE LINARES GENEROSO Y CARMELITA-oL77DLwheQk.mp4",
-            "size": 4.375311,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS CADETES DE LINARES GENEROSO Y CARMELITA-oL77DLwheQk.mp4?raw=true"
         },
         {
             "id": "ZeW6_25-lrE",
@@ -233,32 +163,11 @@
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/No Hay Novedad - Los Cadetes de Linares [Letra]-sK8qlhXs_mo.mp4?raw=true"
         },
         {
-            "id": "C2soEPSgQx4",
-            "name": "Los Cadetes de Linares - Un Viejo Amor-C2soEPSgQx4.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - Un Viejo Amor-C2soEPSgQx4.mp4",
-            "size": 4.423152,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - Un Viejo Amor-C2soEPSgQx4.mp4?raw=true"
-        },
-        {
-            "id": "Z0rIXUmhf8c",
-            "name": "Los Cadetes de Linares - Flor de Capomo-Z0rIXUmhf8c.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - Flor de Capomo-Z0rIXUmhf8c.mp4",
-            "size": 5.658157999999999,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - Flor de Capomo-Z0rIXUmhf8c.mp4?raw=true"
-        },
-        {
             "id": "sMWHRcX6NBE",
             "name": "Los Cadetes de Linares - Como Le Hare-sMWHRcX6NBE.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - Como Le Hare-sMWHRcX6NBE.mp4",
             "size": 3.2788649999999997,
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - Como Le Hare-sMWHRcX6NBE.mp4?raw=true"
-        },
-        {
-            "id": "sK8qlhXs_mo",
-            "name": "Los Cadetes de Linares - 'No Hay Novedad' (Letra)-sK8qlhXs_mo.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - 'No Hay Novedad' (Letra)-sK8qlhXs_mo.mp4",
-            "size": 7.868831999999999,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - 'No Hay Novedad' (Letra)-sK8qlhXs_mo.mp4?raw=true"
         },
         {
             "id": "DLKmwp9wJ6s",
@@ -317,13 +226,6 @@
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los cadetes de linares  de Lupe Tijerina  Mariano eredia-N_k9KZbHsfM.mp4?raw=true"
         },
         {
-            "id": "M0hjdnNHwFQ",
-            "name": "MI MORENITA!  (CADETES DE LINARES.)-M0hjdnNHwFQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/MI MORENITA!  (CADETES DE LINARES.)-M0hjdnNHwFQ.mp4",
-            "size": 7.748158999999999,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/MI MORENITA!  (CADETES DE LINARES.)-M0hjdnNHwFQ.mp4?raw=true"
-        },
-        {
             "id": "GxImnPSUxPY",
             "name": "Líder Del Genocidio-GxImnPSUxPY.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l/videos/Líder Del Genocidio-GxImnPSUxPY.mp4",
@@ -345,13 +247,6 @@
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS CADETES DE LINARES LE PIDO AL CIELO-jErA78yuPss.mp4?raw=true"
         },
         {
-            "id": "nEUNIj_n9Yo",
-            "name": "Los Cadetes De Linares - No Hay Novedad (Video Oficial)-nEUNIj_n9Yo.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes De Linares - No Hay Novedad (Video Oficial)-nEUNIj_n9Yo.mp4",
-            "size": 16.167852,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes De Linares - No Hay Novedad (Video Oficial)-nEUNIj_n9Yo.mp4?raw=true"
-        },
-        {
             "id": "54dNR1_nN8s",
             "name": "Los Cadetes de Linares - Ya Pardiando-54dNR1_nN8s.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - Ya Pardiando-54dNR1_nN8s.mp4",
@@ -364,13 +259,6 @@
             "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes De Linares- La tragedia de Rosita.-fLzHebGvgQo.mp4",
             "size": 4.700282,
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes De Linares- La tragedia de Rosita.-fLzHebGvgQo.mp4?raw=true"
-        },
-        {
-            "id": "6TGazyqwMvQ",
-            "name": "Kazz (Los Amantes de Lola) - Beber de Tu Sangre (Versión Sinfónico)[Cover Audio]-6TGazyqwMvQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Kazz (Los Amantes de Lola) - Beber de Tu Sangre (Versión Sinfónico)[Cover Audio]-6TGazyqwMvQ.mp4",
-            "size": 19.706066,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Kazz (Los Amantes de Lola) - Beber de Tu Sangre (Versión Sinfónico)[Cover Audio]-6TGazyqwMvQ.mp4?raw=true"
         },
         {
             "id": "htkDdw3KcgQ",
@@ -392,13 +280,6 @@
             "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - Mandato Divino-oEn7Qu1kHhI.mp4",
             "size": 3.7472659999999998,
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - Mandato Divino-oEn7Qu1kHhI.mp4?raw=true"
-        },
-        {
-            "id": "FGsH-qCW85Q",
-            "name": "Los Cadetes De Linares - Mi Amigo-FGsH-qCW85Q.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes De Linares - Mi Amigo-FGsH-qCW85Q.mp4",
-            "size": 4.478808,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes De Linares - Mi Amigo-FGsH-qCW85Q.mp4?raw=true"
         },
         {
             "id": "zYJiKKQ1xlc",
@@ -450,46 +331,11 @@
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - Tu Nombre-y_ry3v2rHLs.mp4?raw=true"
         },
         {
-            "id": "RtLEdH_zWj4",
-            "name": "Los Cadetes de Linares - Necio, Necio Morire-RtLEdH_zWj4.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - Necio, Necio Morire-RtLEdH_zWj4.mp4",
-            "size": 3.7316309999999997,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - Necio, Necio Morire-RtLEdH_zWj4.mp4?raw=true"
-        },
-        {
-            "id": "zYJiKKQ1xlc",
-            "name": "Los Cadetes de Linares - Dimas de Leon-zYJiKKQ1xlc.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - Dimas de Leon-zYJiKKQ1xlc.mp4",
-            "size": 3.5912189999999997,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - Dimas de Leon-zYJiKKQ1xlc.mp4?raw=true"
-        },
-        {
-            "id": "PsuUM1ayWNI",
-            "name": "Los Cadetes de Linares - Pueblito-PsuUM1ayWNI.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - Pueblito-PsuUM1ayWNI.mp4",
-            "size": 4.724985,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - Pueblito-PsuUM1ayWNI.mp4?raw=true"
-        },
-        {
-            "id": "C3Ib4lDFO3I",
-            "name": "El rogon - cadetes de linares-C3Ib4lDFO3I.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/El rogon - cadetes de linares-C3Ib4lDFO3I.mp4",
-            "size": 13.582616999999999,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/El rogon - cadetes de linares-C3Ib4lDFO3I.mp4?raw=true"
-        },
-        {
             "id": "-8Rp8J8v9_4",
             "name": "LOS CADETES DE LINARES CORRIDO DE JOSE LOPEZ--8Rp8J8v9_4.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l/videos/LOS CADETES DE LINARES CORRIDO DE JOSE LOPEZ--8Rp8J8v9_4.mp4",
             "size": 3.8743,
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS CADETES DE LINARES CORRIDO DE JOSE LOPEZ--8Rp8J8v9_4.mp4?raw=true"
-        },
-        {
-            "id": "V7Nk-y14aws",
-            "name": "Rezando Por Ella - Los Cadetes de Linares-V7Nk-y14aws.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Rezando Por Ella - Los Cadetes de Linares-V7Nk-y14aws.mp4",
-            "size": 4.210961,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Rezando Por Ella - Los Cadetes de Linares-V7Nk-y14aws.mp4?raw=true"
         },
         {
             "id": "fzepstermSQ",
@@ -499,32 +345,11 @@
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/La Familia Iskariote - Hay Mañanas Que Es Mejor No Levantarse (Videoclip Oficial)-fzepstermSQ.mp4?raw=true"
         },
         {
-            "id": "4u-ihWoRC4w",
-            "name": "LITTLE RICHARD - Long Tall Sally _ Tutti Frutti (1956) HD Movie Clip-4u-ihWoRC4w.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/LITTLE RICHARD - Long Tall Sally _ Tutti Frutti (1956) HD Movie Clip-4u-ihWoRC4w.mp4",
-            "size": 22.914644,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LITTLE RICHARD - Long Tall Sally _ Tutti Frutti (1956) HD Movie Clip-4u-ihWoRC4w.mp4?raw=true"
-        },
-        {
-            "id": "oEn7Qu1kHhI",
-            "name": "Mandato Divino - Los Cadetes de Linares-oEn7Qu1kHhI.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Mandato Divino - Los Cadetes de Linares-oEn7Qu1kHhI.mp4",
-            "size": 4.615673999999999,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Mandato Divino - Los Cadetes de Linares-oEn7Qu1kHhI.mp4?raw=true"
-        },
-        {
             "id": "DkaGBTfXlgg",
             "name": "LOS CADETES DE LINARES DE CHINA A BRAVO-DkaGBTfXlgg.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l/videos/LOS CADETES DE LINARES DE CHINA A BRAVO-DkaGBTfXlgg.mp4",
             "size": 7.562912,
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS CADETES DE LINARES DE CHINA A BRAVO-DkaGBTfXlgg.mp4?raw=true"
-        },
-        {
-            "id": "SLlpL2S9b7U",
-            "name": "Cosas del Ayer - Los Cadetes de Linares-SLlpL2S9b7U.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Cosas del Ayer - Los Cadetes de Linares-SLlpL2S9b7U.mp4",
-            "size": 4.4848349999999995,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Cosas del Ayer - Los Cadetes de Linares-SLlpL2S9b7U.mp4?raw=true"
         },
         {
             "id": "HvDbCu8WheQ",
@@ -539,13 +364,6 @@
             "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes De Linares  la mosca prieta-ItWNOw2jT0E.mp4",
             "size": 5.346197,
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes De Linares  la mosca prieta-ItWNOw2jT0E.mp4?raw=true"
-        },
-        {
-            "id": "ZeW6_25-lrE",
-            "name": "Los Cadetes de Linares - El Dia Que Te Cases-ZeW6_25-lrE.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - El Dia Que Te Cases-ZeW6_25-lrE.mp4",
-            "size": 3.343543,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - El Dia Que Te Cases-ZeW6_25-lrE.mp4?raw=true"
         },
         {
             "id": "uRZDwuwrh3I",
@@ -723,20 +541,6 @@
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Llevale Esta Carta a Esther  (En Vivo)  Desde Houston, Tx - Los Cadetes de Linares-kUwzFuvXDmY.mp4?raw=true"
         },
         {
-            "id": "HvDbCu8WheQ",
-            "name": "Flor De Mis Primeros Años-HvDbCu8WheQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Flor De Mis Primeros Años-HvDbCu8WheQ.mp4",
-            "size": 3.4718959999999996,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Flor De Mis Primeros Años-HvDbCu8WheQ.mp4?raw=true"
-        },
-        {
-            "id": "fMitqhh0bzI",
-            "name": "Los Cadetes de Linares - Ezequiel Rodriguez-fMitqhh0bzI.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - Ezequiel Rodriguez-fMitqhh0bzI.mp4",
-            "size": 5.105341,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - Ezequiel Rodriguez-fMitqhh0bzI.mp4?raw=true"
-        },
-        {
             "id": "N1U4gPZ71E4",
             "name": "LOS CADETES DE LINARES MUCHACHITA-N1U4gPZ71E4.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l/videos/LOS CADETES DE LINARES MUCHACHITA-N1U4gPZ71E4.mp4",
@@ -758,25 +562,11 @@
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Muertos de Cristo - El militar ¿qué militar-xC3rXmScUlU.mp4?raw=true"
         },
         {
-            "id": "rB7q0nr9VTU",
-            "name": "Jorge Drexler - Tinta y Tiempo (Video Oficial)-rB7q0nr9VTU.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Jorge Drexler - Tinta y Tiempo (Video Oficial)-rB7q0nr9VTU.mp4",
-            "size": 6.562403,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Jorge Drexler - Tinta y Tiempo (Video Oficial)-rB7q0nr9VTU.mp4?raw=true"
-        },
-        {
             "id": "2H2rZ9d9iM8",
             "name": "Los Muertos de Cristo - Grita y No Pares de Gritar-2H2rZ9d9iM8.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Muertos de Cristo - Grita y No Pares de Gritar-2H2rZ9d9iM8.mp4",
             "size": 6.0324279999999995,
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Muertos de Cristo - Grita y No Pares de Gritar-2H2rZ9d9iM8.mp4?raw=true"
-        },
-        {
-            "id": "JJkGB7HLr7o",
-            "name": "LOS CADETES DE LINARES CABALLO ALAZAN LUCERO-JJkGB7HLr7o.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/LOS CADETES DE LINARES CABALLO ALAZAN LUCERO-JJkGB7HLr7o.mp4",
-            "size": 6.607374999999999,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS CADETES DE LINARES CABALLO ALAZAN LUCERO-JJkGB7HLr7o.mp4?raw=true"
         },
         {
             "id": "S96n5x1kp70",
@@ -812,13 +602,6 @@
             "path": "/home/alanmatzumiya/Videos/container/l/videos/LOS CADETES DE LINARES LLEVALE ESTA CARTA A ESTHER-P1SpC5CRgcQ.mp4",
             "size": 4.193489,
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS CADETES DE LINARES LLEVALE ESTA CARTA A ESTHER-P1SpC5CRgcQ.mp4?raw=true"
-        },
-        {
-            "id": "pQa8jASm5IA",
-            "name": "Laid Back - Highway Of Love-pQa8jASm5IA.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Laid Back - Highway Of Love-pQa8jASm5IA.mp4",
-            "size": 16.492081,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Laid Back - Highway Of Love-pQa8jASm5IA.mp4?raw=true"
         },
         {
             "id": "Y6-RRsQbwQQ",
@@ -884,25 +667,11 @@
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares  'El Desquite'-f-E-35UZWRw.mp4?raw=true"
         },
         {
-            "id": "zmFq2lQfeGw",
-            "name": "Los Cadetes de Linares - Una Pagina Mas (En Vivo Desde Houston, Tx)-zmFq2lQfeGw.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - Una Pagina Mas (En Vivo Desde Houston, Tx)-zmFq2lQfeGw.mp4",
-            "size": 17.083890999999998,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - Una Pagina Mas (En Vivo Desde Houston, Tx)-zmFq2lQfeGw.mp4?raw=true"
-        },
-        {
             "id": "hiBrqW9wV_o",
             "name": "Los Invasores De Nuevo Leon El Preso De Nuevo Leon-hiBrqW9wV_o.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Invasores De Nuevo Leon El Preso De Nuevo Leon-hiBrqW9wV_o.mp4",
             "size": 3.9751209999999997,
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Invasores De Nuevo Leon El Preso De Nuevo Leon-hiBrqW9wV_o.mp4?raw=true"
-        },
-        {
-            "id": "fLzHebGvgQo",
-            "name": "Los Cadetes de Linares -  La Tregedia de Rosita-fLzHebGvgQo.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares -  La Tregedia de Rosita-fLzHebGvgQo.mp4",
-            "size": 4.8653129999999996,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares -  La Tregedia de Rosita-fLzHebGvgQo.mp4?raw=true"
         },
         {
             "id": "jiRUH9b33dA",
@@ -917,13 +686,6 @@
             "path": "/home/alanmatzumiya/Videos/container/l/videos/Limp Bizkit - Indigo Flow (Three Dollar Bill Y'all $) [HQ]-LY8c3SlbtXI.mp4",
             "size": 6.409901,
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Limp Bizkit - Indigo Flow (Three Dollar Bill Y'all $) [HQ]-LY8c3SlbtXI.mp4?raw=true"
-        },
-        {
-            "id": "nIoKRIOjuJI",
-            "name": "Los Cadetes de Linares - Silvano Garcia-nIoKRIOjuJI.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - Silvano Garcia-nIoKRIOjuJI.mp4",
-            "size": 5.818550999999999,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - Silvano Garcia-nIoKRIOjuJI.mp4?raw=true"
         },
         {
             "id": "dSZP3xXVKW8",
@@ -954,32 +716,11 @@
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/La coyota - ozomonkey-m4eclaTpPe0.mp4?raw=true"
         },
         {
-            "id": "hXUE7ItJ69U",
-            "name": "Por Ser Tan Pobre - Los Cadetes de Linares-hXUE7ItJ69U.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Por Ser Tan Pobre - Los Cadetes de Linares-hXUE7ItJ69U.mp4",
-            "size": 3.7188809999999997,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Por Ser Tan Pobre - Los Cadetes de Linares-hXUE7ItJ69U.mp4?raw=true"
-        },
-        {
-            "id": "dkHwMRsOpiY",
-            "name": "Desprecio - Los Cadetes de Linares-dkHwMRsOpiY.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Desprecio - Los Cadetes de Linares-dkHwMRsOpiY.mp4",
-            "size": 4.090345999999999,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Desprecio - Los Cadetes de Linares-dkHwMRsOpiY.mp4?raw=true"
-        },
-        {
             "id": "A5ybyFq-aCk",
             "name": "Los Herederos De Nuevo Leon - El Corrido  De Monterrey-A5ybyFq-aCk.mp4",
             "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Herederos De Nuevo Leon - El Corrido  De Monterrey-A5ybyFq-aCk.mp4",
             "size": 17.056117999999998,
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Herederos De Nuevo Leon - El Corrido  De Monterrey-A5ybyFq-aCk.mp4?raw=true"
-        },
-        {
-            "id": "ywuIgEmGl6E",
-            "name": "Los Cadetes de Linares - Cruel Incertidumbre-ywuIgEmGl6E.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/l/videos/Los Cadetes de Linares - Cruel Incertidumbre-ywuIgEmGl6E.mp4",
-            "size": 11.224195,
-            "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/Los Cadetes de Linares - Cruel Incertidumbre-ywuIgEmGl6E.mp4?raw=true"
         },
         {
             "id": "zmFq2lQfeGw",
@@ -1024,5 +765,5 @@
             "url": "https://github.com/circuitalmynds/music_l/blob/main/videos/LOS CADETES DE LINARES ASI ES MI CORAZON-UkC1lX9tbtc.mp4?raw=true"
         }
     ],
-    "total_size": 1222.9673510000002
+    "total_size": 933.1873370000001
 }
